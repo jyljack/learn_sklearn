@@ -1,4 +1,4 @@
-# -*- ecoding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 # @Author: JylJack
 # @Time: 2020/3/11 14:02
 # @FileName: DecisionTreeClassifier

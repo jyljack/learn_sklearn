@@ -2,6 +2,7 @@
 # @Author: JylJack
 # @Time: 2020/3/11 14:02
 # @FileName: DecisionTreeClassifier
+# 决策树
 
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.datasets import load_iris
